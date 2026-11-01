@@ -32,3 +32,7 @@ Source: https://www.kaggle.com/datasets/mirichoi0218/insurance
 4. Make sure `insurance.csv` is in the same folder as `app.R`.
 5. Click **Run App**.
    
+## Live Shiny App
+
+[Explore our Medical Insurance Shiny App] (https://marjansadeghi.shinyapps.io/insurance-shiny-app/)
+
